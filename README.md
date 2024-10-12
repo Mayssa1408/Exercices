@@ -1,6 +1,6 @@
-# Exercices
+# Bases de développement Back End
 Ce dépôt contient les travaux réalisés dans le cadre du cours **"Bases de développement Back End ou CMS"**. 
-L'objectif de ce cours est d'acquérir les compétences nécessaires pour intégrer et dynamiser un template HTML dans WordPress.
+L'objectif de ce cours est d'acquérir les compétences nécessaires pour intégrer et dynamiser un template HTML.
 
 # Séance 1 : Introduction à PHP
 
